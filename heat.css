@@ -1,0 +1,86 @@
+.water ul{
+  display: inline;
+  margin:0px;
+  padding:0px;
+}
+
+.water li{
+  display: inline;
+  margin:10px;
+  padding:10px;
+}
+
+.water a{
+  padding:10px;
+  margin:10px;
+}
+
+.water{
+  background-color:#03e8fc;
+  margin:0px;
+  text-align: center;
+}
+
+
+.water li a:hover{
+  background-color:#fc033d;
+  color:white; 
+}
+
+body{
+  margin:0px;
+}
+
+html{
+background-image:url("https://cdn.wallpapersafari.com/26/0/ocPRIa.jpg");
+
+  min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.image3{
+  width height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.image4{
+  width:440px;
+  height:190px;
+  text-align:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  text-align:center;
+  font-family: 'Exo', sans-serif;
+}
+
+p{
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 900;
+}
+
+ul{
+  font-family: 'Cardo', serif;
+  font-weight:400;
+}
+
+main{
+  color:white;
+}
+
+section{
+  color:white;
+}
+
+figcaption{
+  color:white;
+  text-align:center;
+  background-color: powderblue;
+}

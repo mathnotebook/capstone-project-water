@@ -1,0 +1,65 @@
+.water ul{
+  display: inline;
+  margin:0px;
+  padding:0px;
+}
+
+.water li{
+  display: inline;
+  margin:10px;
+  padding:10px;
+}
+
+.water a{
+  padding:10px;
+  margin:10px;
+}
+
+.water{
+  background-color:#03e8fc;
+  margin:0px;
+  text-align: center;
+}
+
+
+.water li a:hover{
+  background-color:#fc033d;
+  color:white; 
+}
+
+body{
+  margin:0px;
+}
+
+html{
+  background-image:url("https://www.publicdomainpictures.net/pictures/200000/nahled/water-background-1475566418iuy.jpg");
+  
+  min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+h1{
+  text-align:center;
+  font-family: 'Exo', sans-serif;
+}
+
+h2{
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+p{
+  font-family: 'Delius', cursive;
+}
+
+.image8{
+  weight:100px;
+  height:200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption{
+  text-align: center;
+}

@@ -1,0 +1,77 @@
+.water ul{
+  display: inline;
+  margin:0px;
+  padding:0px;
+}
+
+.water li{
+  display: inline;
+  margin:10px;
+  padding:10px;
+}
+
+.water a{
+  padding:10px;
+  margin:10px;
+}
+
+.water{
+  background-color:#03e8fc;
+  margin:0px;
+  text-align: center;
+}
+
+
+.water li a:hover{
+  background-color:#fc033d;
+  color:white; 
+}
+
+body{
+  margin:0px;
+}
+
+html{
+  background-image: url("https://wallpaperaccess.com/full/1841213.jpg");
+  min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.image5{
+  weight:140px;
+  height:130px;
+}
+
+.image6{
+  weight:200px;
+  height:150px;
+}
+
+.image7{
+ weight:200px;
+height:320px;
+}
+
+h1{
+  text-align:center;
+  font-family: 'Exo', sans-serif;
+}
+
+h2{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 30px;
+}
+
+p{
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 20px;
+}
+
+section{
+  font-family: 'Cardo', serif;
+}
+
+article{
+  font-family: 'Cardo', serif;
+}

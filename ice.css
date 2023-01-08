@@ -1,0 +1,67 @@
+.water ul{
+  display: inline;
+  margin:0px;
+  padding:0px;
+}
+
+.water li{
+  display: inline;
+  margin:10px;
+  padding:10px;
+}
+
+.water a{
+  padding:10px;
+  margin:10px;
+}
+
+.water{
+  background-color:#03e8fc;
+  margin:0px;
+  text-align: center;
+}
+
+
+.water li a:hover{
+  background-color:#fc033d;
+  color:white; 
+}
+
+body{
+  margin:0px;
+}
+
+html{
+  background-image: url("https://cdn11.bigcommerce.com/s-ay2mt0vs/images/stencil/original/carousel/155/banner__72643.jpg?c=2&imbypass=on");
+
+ min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+h1{
+  text-align:center;
+  font-family: 'Exo', sans-serif;
+}
+
+p{
+  font-family: 'Delius', cursive;
+}
+
+h3{
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.image9{
+   weight:400px;
+  height:250px;
+  display: block;
+  margin-right: auto;
+
+}
+
+figcaption{
+  text-align: left;
+  color:white;
+  font-weight: 900;
+}

@@ -1,0 +1,76 @@
+.water ul{
+  display: inline;
+  margin:0px;
+  padding:0px;
+}
+
+.water li{
+  display: inline;
+  margin:10px;
+  padding:10px;
+}
+
+.water a{
+  padding:10px;
+  margin:10px;
+}
+
+.water{
+  background-color:#03e8fc;
+  margin:0px;
+  text-align: center;
+}
+
+
+.water li a:hover{
+  background-color:#fc033d;
+  color:white; 
+}
+
+body{
+  margin:0px;
+}
+
+.image1{
+  width:200px;
+  height:140px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image2{
+  width:300;
+  height:150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+ html{
+   background-image:url("https://img.rawpixel.com/private/static/images/website/2022-05/pf-s112-pa-92_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=23a9b2d6c36a11cc5659cc548ee26463");
+
+   min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+    }
+
+h1{
+  text-align:center;
+  font-family: 'Exo', sans-serif;
+}
+
+figcaption{
+  text-align:center;
+}
+
+p{
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 900;
+}
+
+ul{
+  font-family: 'Cardo', serif;
+  font-weight:400;
+}
